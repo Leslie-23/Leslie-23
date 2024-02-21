@@ -4,7 +4,7 @@
 I am currently a second-year Information Technology student with a passion for coding and problem-solving. As an aspiring software engineer, I am dedicated to expanding my skills and knowledge in the field of technology.
 
 ### Education
-- **Current:**🎓 BSc. Information Technology student second-year 
+- **Current:** 🎓 BSc. Information Technology `second-year student`  
 - **School:** [Regional Maritime University](https://rmu.edu.gh/)
   
 
