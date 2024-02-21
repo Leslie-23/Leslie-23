@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello, I'm Leslie-23 👋
 
-<!--
-**Leslie-23/Leslie-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I am currently a second-year Information Technology student with a passion for coding and problem-solving. As an aspiring software engineer, I am dedicated to expanding my skills and knowledge in the field of technology.
 
-Here are some ideas to get you started:
+### Education
+🎓 **Current:** Second-year Information Technology student  
+🏫 **School:** [Regional Maritime University Ghana]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- Software Development
+- Web Development
+- Mobile App Development
+
+### Skills
+- Programming Languages: [Python , c++ , javascript , java ,]
+- Web Technologies: HTML, CSS, JavaScript
+- Version Control: Git, GitHub
+
+### Projects
+- [A calculator for attendance at a Church event](https://wci-spintex-attendance.netlify.app/)
+- [Random Jokes site](https://mordecai-and-rigby-fun2.netlify.app/)
+
+
+### Get in Touch
+📧 Email: [leslieajayi27@gmail.com]  
+🔗 LinkedIn: [Your LinkedIn Profile]  
+📷 Instagram: [https://www.instagram.com/i_am.leslie/]
+
+### Let's Connect!
+Feel free to explore my repositories and projects. Connect with me on LinkedIn or Twitter to stay updated on my latest endeavors in the world of technology.
