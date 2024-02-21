@@ -14,8 +14,8 @@ I am currently a second-year Information Technology student with a passion for c
 - Mobile App Development
 
 ### Skills
-- Programming Languages: [Python , c++ , javascript , java ,]
-- Web Technologies: HTML, CSS, JavaScript
+- Programming Languages: `Python` `c++`  `javascript` `java` 
+- Web Technologies: HTML, CSS, JavaScript, React, Django.
 - Version Control: Git, GitHub
 
 ### Projects
