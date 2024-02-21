@@ -5,7 +5,7 @@ I am currently a second-year Information Technology student with a passion for c
 
 ### Education
 - **Current:** 🎓 BSc. Information Technology `second-year student`  
-- **University:** [Regional Maritime University] (https://rmu.edu.gh/)
+- **University:** [Regional Maritime University](https://rmu.edu.gh/)
   
 
 ### Interests
