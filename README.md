@@ -16,7 +16,7 @@ I am currently a second-year Information Technology student with a passion for c
 ### Skills
 - Programming Languages: `Python` `c++`  `javascript` `java`.
 - Web Technologies: `HTML` `CSS` `JavaScript` `React` `Django` `Bootstrap`.
-- Version Control: Git, GitHub
+- Version Control: `Git`, `GitHub`
 
 ### Projects
 - [A calculator for attendance at a Church event](https://wci-spintex-attendance.netlify.app/)
@@ -24,7 +24,7 @@ I am currently a second-year Information Technology student with a passion for c
 
 
 ### Get in Touch
-📧 Email: [leslieajayi27@gmail.com](leslieajayi27@gmail.com) 
+📧 Email: [Leslie-23@gmail.com](leslieajayi27@gmail.com) 
 🔗 LinkedIn: [Leslie Paul Ajayi](https://www.linkedin.com/in/leslie-paul-ajayi-45a725279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 📷 Instagram: [Leslie-23](https://www.instagram.com/i_am.leslie/)
 
