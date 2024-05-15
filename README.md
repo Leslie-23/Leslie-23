@@ -36,7 +36,7 @@ I am currently a second-year Information Technology student with a passion for c
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 ### Projects
-- [A calculator for attendance at a Church event](https://wci-spintex-attendance.netlify.app/)
+- [A calculator for attendance at a Church event](https://wci-spintex.netlify.app/)
 - [Random Jokes site](https://mordecai-and-rigby-fun2.netlify.app/)
 
 ### Get in Touch
