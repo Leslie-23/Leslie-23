@@ -28,5 +28,7 @@ I am currently a second-year Information Technology student with a passion for c
 🔗 LinkedIn: [Leslie Paul Ajayi](https://www.linkedin.com/in/leslie-paul-ajayi-45a725279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 📷 Instagram: [Leslie-23](https://www.instagram.com/i_am.leslie/)
 
+### Leet Code
+![Leetcode Stats](https://leetcard.leslieajayi27/leslieajayi)
 ### Let's Connect!
 Feel free to explore my repositories and projects. Connect with me on LinkedIn or Instagram to stay updated on my latest endeavors in the world of technology...
