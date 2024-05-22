@@ -38,6 +38,9 @@ I am currently a second-year Information Technology student with a passion for c
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leslie-23&show_icons=true&theme=radical)
+
+
 ### Projects
 - [A calculator for attendance at a Church event](https://wci-spintex.netlify.app/)
 - [Random Jokes site](https://mordecai-and-rigby-fun2.netlify.app/)
