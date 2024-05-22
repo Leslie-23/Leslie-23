@@ -39,6 +39,8 @@ I am currently a second-year Information Technology student with a passion for c
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leslie-23&show_icons=true&theme=radical)
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/leslieajayi27)
+
 
 
 ### Projects
