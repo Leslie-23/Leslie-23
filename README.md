@@ -43,7 +43,7 @@ I am currently a second-year Information Technology student with a passion for c
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leslie-23&layout=compact&theme=radical)
 ---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/leslieajayi27?theme=dark&font=Montserrat&ext=contest)
-
+[![GitHub Streak](https://streak-stats.demolab.com/Leslie-23=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 
 ### Projects
