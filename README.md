@@ -44,7 +44,7 @@ I am currently a second-year Information Technology student with a passion for c
 ---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/leslieajayi27?theme=dark&font=Montserrat&ext=contest)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leslie-23)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leslie-23&theme=dark)
 
 
 
