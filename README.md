@@ -60,3 +60,10 @@ I am currently a second-year Information Technology student with a passion for c
 
 ### Let's Connect!
 Feel free to explore my repositories and projects. Connect with me on LinkedIn or Instagram to stay updated on my latest endeavors in the world of technology...
+
+
+
+
+---
+![GitHub Star](https://img.shields.io/badge/GitHub%20Star-000000?style=for-the-badge&logo=github&logoColor=white)
+
