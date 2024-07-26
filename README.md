@@ -66,18 +66,12 @@ Feel free to explore my repositories and projects. Connect with me on LinkedIn o
 
 ---
 ![GitHub Star](https://img.shields.io/badge/GitHub%20Star-000000?style=for-the-badge&logo=github&logoColor=white)
-
-
-# Hi there 👋
-
-I have spent this week coding in:
-
-<!--START_SECTION:waka-->
+START_SECTION:waka
 <!--
 - **JavaScript**: 10 hrs 23 mins
 - **HTML**: 5 hrs 40 mins
 - **CSS**: 3 hrs 15 mins
 -->
-<!--END_SECTION:waka-->
+END_SECTION:waka
 
 
