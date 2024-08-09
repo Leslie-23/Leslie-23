@@ -38,6 +38,10 @@ I am currently a third-year Information Technology student with a passion for co
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
+#### Code Editor:
+![VSCode](https://camo.githubusercontent.com/279baebad26d562ca1c6300b0c4052679a8aee84c81e9d4ef77103b78bb64449/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leslie-23&show_icons=true&theme=radical)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leslie-23&layout=compact&theme=radical)
