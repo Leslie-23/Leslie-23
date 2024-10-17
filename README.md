@@ -58,7 +58,7 @@ I am currently a third-year Information Technology student with a passion for co
 Feel free to explore my repositories and projects. Connect with me on LinkedIn or Instagram to stay updated on my latest endeavors in the world of technology...
 
 
-
+[![](https://visitcount.itsvg.in/api?id=Leslie-23&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 ![GitHub Star](https://img.shields.io/badge/GitHub%20Star-000000?style=for-the-badge&logo=github&logoColor=green)
