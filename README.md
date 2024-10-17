@@ -25,18 +25,26 @@ I am currently a third-year Information Technology student with a passion for co
 | ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge) | ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge) |  |  |
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leslie-23&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leslie-23&show_icons=true&theme=great-gatsby)
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leslie-23&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leslie-23&layout=compact&theme=great-gatsby)
 ---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/leslieajayi27?theme=dark&font=Montserrat&ext=contest)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leslie-23&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leslie-23&theme=great-gatsby)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leslie-23&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo)
 
 
+### Advanced Projects
+- [An E-Commerce App](https://paltech-e-commerce.netlify.app/)
+- [A school Management System](https://paltech-school-management-system.netlify.app)
 
-### Projects
+### Intermediate Projects
+- [ChatBot with AI - not yet live](https://github.com/Leslie-23/ReactChatGPTChatbot)
+- [Chess Game with HTML,CSS & JS](https://github.com/Leslie-23/chessGame)
+- [Restaurant Template with Advanced HTML,CSS & JS](http://leslie-restaurant-template-23.netlify.app/)
+
+### Beginner Projects
 - [A calculator for attendance at a Church event](https://wci-spintex.netlify.app/)
 - [Random Jokes site](https://mordecai-and-rigby-fun2.netlify.app/)
 
@@ -53,7 +61,7 @@ Feel free to explore my repositories and projects. Connect with me on LinkedIn o
 
 
 ---
-![GitHub Star](https://img.shields.io/badge/GitHub%20Star-000000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Star](https://img.shields.io/badge/GitHub%20Star-000000?style=for-the-badge&logo=github&logoColor=green)
 [![](https:://visitcount.itsvg.in/api?id=Leslie-23&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
