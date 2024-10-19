@@ -32,7 +32,10 @@ I am currently a third-year Information Technology student with a passion for co
 ![LeetCode Stats](https://leetcard.jacoblin.cool/leslieajayi27?theme=dark&font=Montserrat&ext=contest)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leslie-23&theme=great-gatsby)
+
+<!-- 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leslie-23&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo)
+-->
 
 
 ### Advanced Projects
