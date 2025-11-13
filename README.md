@@ -1,5 +1,7 @@
 # Hello, I'm Leslie-23 
-(Portfolio)[https://lesliepaul.me]
+[Visit My Portfolio](https://lesliepaul.me)
+[Check out my work](https://lesliepaul.me/projects)
+[Leslie Paul - Portfolio](https://lesliepaul.me/about)
 ### About Me
 I am currently a third-year Information Technology student with a passion for coding and problem-solving. As an aspiring software engineer, I am dedicated to expanding my skills and knowledge in the field of technology.
 
