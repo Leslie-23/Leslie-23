@@ -3,7 +3,7 @@
 [Check out my work](https://lesliepaul.me/projects)
 [Leslie Paul - Portfolio](https://lesliepaul.me/about)
 ### About Me
-I am currently a third-year Information Technology student with a passion for coding and problem-solving. As an aspiring software engineer, I am dedicated to expanding my skills and knowledge in the field of technology.
+I am currently a final-year Information Technology student with a passion for coding and problem-solving. As an aspiring software engineer, I am dedicated to expanding my skills and knowledge in the field of technology.
 
 ### Education
 - **Current:** 🎓 BSc. Information Technology `third-year student`  
