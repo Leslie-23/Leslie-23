@@ -16,6 +16,7 @@ Based in Accra. BSc Information Technology, Regional Maritime University.
 
 **[Trofficient](https://trofficient-live.vercel.app)** — Transit platform targeting Ghana's *trotro* system: real-time tracking (Socket.io), dynamic pricing, mobile-money payments (MTN, Telecel, AirtelTigo). React Native + Node.js + PostgreSQL.
 
+**[AI for SMEs](https://intellexa-sme.vercel.app)** — Intellexa — AI-powered sales, inventory, and profit intelligence for SMEs; built to turn messy retail operations into owner-ready actions, reports, and restock decisions without spreadsheets..
 ---
 
 ## Shipped & live in production
