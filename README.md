@@ -12,11 +12,12 @@ Based in Accra. BSc Information Technology, Regional Maritime University.
 
 ## What I'm building
 
-**[osAfrica](https://github.com/Leslie-23/osAfrica)** — An AI-native operating system. Ambitious, in active development. This is the project I care most about: rethinking the OS layer with AI as a first-class primitive rather than a bolted-on assistant.
+**[osAfrica](https://github.com/Leslie-23/osAfrica)** — An AI-native operating system currently in active development, focused on rethinking the OS layer with AI as a first-class primitive rather than a bolted-on assistant.
 
-**[Trofficient](https://trofficient-live.vercel.app)** — Transit platform targeting Ghana's *trotro* system: real-time tracking (Socket.io), dynamic pricing, mobile-money payments (MTN, Telecel, AirtelTigo). React Native + Node.js + PostgreSQL.
+**[Trofficient](https://trofficient-live.vercel.app)** — A transit intelligence platform for Ghana’s *trotro* ecosystem, featuring real-time vehicle tracking, dynamic pricing, and mobile-money payments using React Native, Node.js, Socket.io, and PostgreSQL.
 
-**[AI for SMEs](https://intellexa-sme.vercel.app)** — Intellexa — AI-powered sales, inventory, and profit intelligence for SMEs; built to turn messy retail operations into owner-ready actions, reports, and restock decisions without spreadsheets..
+**[AI for SMEs](https://intellexa-sme.vercel.app)** — An AI-powered operations platform for SMEs, designed to transform sales, inventory, expenses, and profit data into owner-ready insights, reports, and actionable business decisions.
+
 ---
 
 ## Shipped & live in production
