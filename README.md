@@ -18,6 +18,8 @@ Based in Accra. BSc Information Technology, Regional Maritime University.
 
 **[AI for SMEs](https://intellexa-sme.vercel.app)** — An AI-powered operations platform for SMEs, designed to transform sales, inventory, expenses, and profit data into owner-ready insights, reports, and actionable business decisions.
 
+**[CampusConnect](https://github.com/Campus-Connect-v1/campus-connect)** — A university social and collaboration platform built to centralize student communication, campus events, academic updates, and community engagement into one connected digital ecosystem.
+
 ---
 
 ## Shipped & live in production
